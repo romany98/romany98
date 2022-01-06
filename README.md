@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Romany Tawfeek
--🧑🏽‍💻 I’m front end develoer- react js
+- 🧑🏽‍💻 I’m front end develoer- react js
 - 🌱 I’m currently learning React Native
 - 📫 contact me romanytawfeekzb@gmail.com
 
