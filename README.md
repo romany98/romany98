@@ -1,6 +1,14 @@
 - 👋 Hi, I’m Romany Tawfeek
-- 👀 I’m interested in Front End
+-🧑🏽‍💻 I’m front end develoer- react js
 - 🌱 I’m currently learning React Native
+- 📫 contact me romanytawfeekzb@gmail.com
+
+
+
+Creative Front-End Developer providing high-impact web solutions by using react js library for diverse industry 
+organizations. building web applications with a focus on frontend Extensive experience in JavaScript and other clientside 
+technologies
+
 
 
 <!---
